@@ -107,12 +107,12 @@ portfolio:
     - name: GameJam - Music of Honor
       image: 'images/portfolio/screenshot_musicofhonor_home.png'
       description: |
-        I did a game jam in IUT in 2025
+        I did a game jam in IUT in 2025.
         It was a game, I did with a team of 6, during **30 hours** with [Godot Engine 4](https://godotengine.org/).
-        In this project I was in charge of the game design, especially in the game mechanics and formulas.
+        In this project, I was in charge of the game design, especially in the game mechanics and formulas.
 
-        The goal is to set a record, the score calculated with the time you survive. You survive by dodging ennemies, picking up power-ups.
-        The longer you survive the faster is the ennemies, the music rythm, animations and player speed.
+        The goal is to set a record, the score is calculated with the time you survive. You survive by dodging ennemies, picking up power-ups.
+        The longer you survive the faster are the ennemies, the music rythm, animations and player speed.
         
         {{< youtube id=Q54SA_4Mvog class=video allowFullScreen=false >}}
         
@@ -124,7 +124,7 @@ portfolio:
       image: 'images/portfolio/screenshot_s102.png'
       description: |
         It was a project in pair of 2. Where we create a 2D game with SDL library.
-        The goal was to collected all coins in the level without being hit by the monsters.
+        The goal was to collect all coins in the level without being hit by the monsters.
     
     - name: Last Project of High-School
       image: 'images/portfolio/lockerjdb.png'
