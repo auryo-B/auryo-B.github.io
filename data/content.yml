@@ -25,7 +25,7 @@ about:
     link: 'CV_RyowenBernard_2025-05.pdf'
     icon: 'fa-download'
 
-###########################4 Experience ##############################
+########################### Experience ##############################
 experience:
   enable: true
   title: 'EXPERIENCE'
@@ -123,7 +123,6 @@ portfolio:
         
         [Download from itch.io](https://xeradse.itch.io/music-of-honor)
         
-        
 
     - name: S102 - IUT Project
       image: 'images/portfolio/screenshot_s102.png'
@@ -164,18 +163,18 @@ portfolio:
     
 
     - name: S105 - IUT Project
-      image:
+      image: 'images/portfolio/illustrationS105-jonas-jacobsson-0FRJ2SCuY4k-unsplash.png'
       description: |
         Date : December 2024 - January 2025
 
         It was a project in a trio. The goal of the project was to make us work on the ability to understand a client request.
-        To reach this goal, we wrote questions to ask a librariant aabout his needs for a web site.
+        To reach this goal, we wrote questions to ask a librarian about his needs for a web site.
         We also analyse the existing web site of his library and ones of other libraries.
         Then we wrote a report of our analysis.
 
 
     - name: S203 - IUT Project
-      image:
+      image: 'images/portfolio/illustrationS203-shubham-dhage-T9rKvI3N0NM-unsplash.png'
       description: |
         Date : May 2025 - June 2025
 
@@ -183,9 +182,9 @@ portfolio:
         We had to set up a bunch of routers, computers, DHCP servers and DNS servers. We also had to set up a router by using SSH connection.
 
     - name: S204 - IUT Project
-      image:
+      image: 'images/portfolio/illustrations204-deng-xiang--WXQm_NTK0U-unsplash.png'
       description: |
         Date : May 2025 - June 2025
 
-        This projcet was in two parts. The first part was in solo, where I had to create a data base with PL/SQL using Oracle SQL Developer.
+        This project was in two parts. The first part was in solo, where I had to create a data base with PL/SQL using Oracle SQL Developer.
         The second part was in trio, where we were in the roles of analysts and had to use pyhton to extract data from the database and display them in a dashboard.
