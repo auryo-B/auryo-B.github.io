@@ -25,7 +25,7 @@ about:
     link: 'CV_RyowenBernard_2025-05.pdf'
     icon: 'fa-download'
 
-###########################3 Experience ##############################
+###########################4 Experience ##############################
 experience:
   enable: true
   title: 'EXPERIENCE'
@@ -74,7 +74,7 @@ funfacts:
   funfacts_list:
     - name: 'Lego Build'
       image: 'images/icons/ph--lego-light.svg'
-      count: '50'
+      count: '51'
 
     - name: 'Hours since 2020'
       image: 'images/icons/game-icons--gamepad.svg'
@@ -89,10 +89,13 @@ portfolio:
   enable: true
   title: 'MY WORK'
   portfolio_list:
+    
     - name: Project Parabellum
       image: 'images/portfolio/lhlogotext.png'
       url: https://docs.google.com/document/d/1B47WdNsB7u8XSO52WBrWcrW_UyagzB_SSD8hy79OIa8/edit?usp=sharing
       description: |
+        Date : March 2025 - Current
+
         It's the first personnal game project I have started (work in progress).
         The "why" of this project is beacause I want to learn how a game is made, on every aspect and exeperience it myself.
         
@@ -107,7 +110,9 @@ portfolio:
     - name: GameJam - Music of Honor
       image: 'images/portfolio/screenshot_musicofhonor_home.png'
       description: |
-        I did a game jam in IUT in 2025.
+        Date : January 2025
+
+        I did a game jam in IUT
         It was a game, I did with a team of 6, during **30 hours** with [Godot Engine 4](https://godotengine.org/).
         In this project, I was in charge of the game design, especially in the game mechanics and formulas.
 
@@ -123,12 +128,17 @@ portfolio:
     - name: S102 - IUT Project
       image: 'images/portfolio/screenshot_s102.png'
       description: |
+        Date : December 2024 - January 2025*
+
         It was a project in pair of 2. Where we create a 2D game with SDL library.
         The goal was to collect all coins in the level without being hit by the monsters.
     
+
     - name: Last Project of High-School
       image: 'images/portfolio/lockerjdb.png'
       description: |
+        Date : January 2024 - June 2024
+
         It was a project I did with a team of 4 people.
         A classmate and I were in charge of making a software, mobile app to be more precise,
         that would allowed the user to claim a locker in the school and open it with a QR code.
@@ -137,3 +147,45 @@ portfolio:
         We used it and the screenshot is the storyboard / navigation flow of the pages we made.
 
     
+    - name: S1256 - IUT Project
+      image: 'images/portfolio/screenshot_s1256.png'
+      description: |
+        Date : March 2025 - June 2025
+
+        It was a project in a group of 4 people. Where we design, develop and test an administration software.
+
+        During this project, we first made a storyboard of the software, then we made a prototype with Figma.
+        Then we made a UML diagram to show the architecture of the software.
+        After that we start the development with Java and JavaSwing (and a bit of awt), using the MVC pattern.
+        And then we tested the software with JUnit tests.
+        Finally we test by ourselves and by external people to see if the software is easy to use and if it works as expected.
+
+        note : The screenshot is the Figma prototype of the software. The actual software looks more like a 2000s software.
+    
+
+    - name: S105 - IUT Project
+      image:
+      description: |
+        Date : December 2024 - January 2025
+
+        It was a project in a trio. The goal of the project was to make us work on the ability to understand a client request.
+        To reach this goal, we wrote questions to ask a librariant aabout his needs for a web site.
+        We also analyse the existing web site of his library and ones of other libraries.
+        Then we wrote a report of our analysis.
+
+
+    - name: S203 - IUT Project
+      image:
+      description: |
+        Date : May 2025 - June 2025
+
+        This project was in a quatuor. The goal was to set up a network of computers and make them communicate with each other.
+        We had to set up a bunch of routers, computers, DHCP servers and DNS servers. We also had to set up a router by using SSH connection.
+
+    - name: S204 - IUT Project
+      image:
+      description: |
+        Date : May 2025 - June 2025
+
+        This projcet was in two parts. The first part was in solo, where I had to create a data base with PL/SQL using Oracle SQL Developer.
+        The second part was in trio, where we were in the roles of analysts and had to use pyhton to extract data from the database and display them in a dashboard.
