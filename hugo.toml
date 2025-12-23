@@ -69,9 +69,6 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 icon = "fab fa-github"
 link = "https://github.com/auryo-B"
 
-[[params.social]]
-icon = "fab fa-steam"
-link = "https://steamcommunity.com/profiles/76561199143071595/"
 
 [[params.social]]
 icon = "fas fa-envelope"
