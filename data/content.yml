@@ -18,7 +18,7 @@ about:
   enable: true
   # image: 'images/profile.jpg'
   title: 'THIS IS ME'
-  content: Hi, thank you for taking a look around my portfolio. If you have any questions feel free to reach out on [Github, or by email](#contact)!
+  content: Hi, thank you for taking a look around my portfolio. If you have any questions feel free to reach out [by email](#contact)!
   button:
     enable: true
     label: 'DOWNLOAD MY RESUME'
@@ -79,15 +79,15 @@ funfacts:
   funfacts_list:
     - name: 'Lego Build'
       image: 'images/icons/ph--lego-light.svg'
-      count: '51'
+      count: '56'
 
     - name: 'Hours since 2020'
       image: 'images/icons/game-icons--gamepad.svg'
-      count: '13100'
+      count: '13700'
 
-    - name: 'Min listening to music (2024)'
+    - name: 'Min listening to music (2025)'
       image: 'images/icons/icon-park-outline--headset.svg'
-      count: '103000'
+      count: '109310'
 
 ############################# portfolio ################################
 portfolio:
