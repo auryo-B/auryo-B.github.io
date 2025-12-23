@@ -4,9 +4,9 @@ hero:
 
   # animated text loop
   occupations:
-    - Student of IUT d'Orsay
-    - Next Gen physician
-    - 
+    - Student at IUT d'Orsay
+    - Student with boundless curiosity
+    - Gamer
 
   # hero background image
   bg_image: 'images/background.png'
@@ -33,7 +33,7 @@ experience:
     - name: Student
       company: IUT d'Orsay
       duration: '2025-Current'
-      content: I study physics mesurements.
+      content: I study physics measurments, and I am part of the staff of the IUT student assosiation.
 
     - name: Student
       company: IUT d'Orsay
