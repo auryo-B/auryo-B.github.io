@@ -5,8 +5,8 @@ hero:
   # animated text loop
   occupations:
     - Student of IUT d'Orsay
-    - Wannabe Game Designer
-    - Gamer
+    - Next Gen physician
+    - 
 
   # hero background image
   bg_image: 'images/background.png'
@@ -32,7 +32,12 @@ experience:
   experience_list:
     - name: Student
       company: IUT d'Orsay
-      duration: '2024-Current'
+      duration: '2025-Current'
+      content: I study physics mesurements.
+
+    - name: Student
+      company: IUT d'Orsay
+      duration: '2024-2025'
       content: I study computer sciences.
 
     - name: Playtester
@@ -90,21 +95,21 @@ portfolio:
   title: 'MY WORK'
   portfolio_list:
     
-    - name: Project Parabellum
-      image: 'images/portfolio/lhlogotext.png'
-      url: https://docs.google.com/document/d/1B47WdNsB7u8XSO52WBrWcrW_UyagzB_SSD8hy79OIa8/edit?usp=sharing
-      description: |
-        Date : March 2025 - Current
+    # - name: Project Parabellum
+    #   image: 'images/portfolio/lhlogotext.png'
+    #   url: https://docs.google.com/document/d/1B47WdNsB7u8XSO52WBrWcrW_UyagzB_SSD8hy79OIa8/edit?usp=sharing
+    #   description: |
+    #     Date : March 2025 - Current
 
-        It's the first personnal game project I have started (work in progress).
-        The "why" of this project is beacause I want to learn how a game is made, on every aspect and exeperience it myself.
+    #     It's the first personnal game project I have started (work in progress).
+    #     The "why" of this project is beacause I want to learn how a game is made, on every aspect and exeperience it myself.
         
-        For this project I have 3 objectives. <br>
-        First is designing, modeling, riging two characters.
-        Second is making a demo level (primary mechanics, setting the mood, introducing the game to see if people like it).
-        Third is making a complete game.
+    #     For this project I have 3 objectives. <br>
+    #     First is designing, modeling, riging two characters.
+    #     Second is making a demo level (primary mechanics, setting the mood, introducing the game to see if people like it).
+    #     Third is making a complete game.
 
-        For now I am working on the game design especially the story and characters design.
+    #     For now I am working on the game design especially the story and characters design.
 
     
     - name: GameJam - Music of Honor
