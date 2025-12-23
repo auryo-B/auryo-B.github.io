@@ -2,10 +2,10 @@
 hero:
   title: 'Portfolio of a'
 
-  # animated text loop
+  # animated text loop.
   occupations:
-    - Student at IUT d'Orsay
-    - Student with boundless curiosity
+    - Student at the IUT d'Orsay
+    - Student interested in everything
     - Gamer
 
   # hero background image
