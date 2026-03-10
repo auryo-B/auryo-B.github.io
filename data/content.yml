@@ -22,7 +22,7 @@ about:
   button:
     enable: true
     label: 'DOWNLOAD MY RESUME'
-    link: 'CV_RyowenBernard_2025-12.pdf'
+    link: 'CV_RyowenBernard_2026-03.pdf'
     icon: 'fa-download'
 
 ########################### Experience ##############################
@@ -38,7 +38,7 @@ experience:
     - name: Student
       company: IUT d'Orsay
       duration: '2024-2025'
-      content: I study computer sciences.
+      content: I studied computer sciences.
 
     - name: Playtester
       company: Ubisoft
