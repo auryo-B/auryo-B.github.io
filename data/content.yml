@@ -83,7 +83,7 @@ funfacts:
 
     - name: 'Hours since 2020'
       image: 'images/icons/game-icons--gamepad.svg'
-      count: '13700'
+      count: '14100'
 
     - name: 'Min listening to music (2025)'
       image: 'images/icons/icon-park-outline--headset.svg'
