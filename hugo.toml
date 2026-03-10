@@ -69,10 +69,13 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 icon = "fab fa-github"
 link = "https://github.com/auryo-B"
 
-
 [[params.social]]
 icon = "fas fa-envelope"
 link = "mailto:ryowen.bernard@gmail.com"
+
+[[params.social]]
+icon = "fab fa-linkedin"
+link = "https://www.linkedin.com/in/ryowen-bernard-48935b3b5/"
 
 contentDir = "content/english"
 weight = 1

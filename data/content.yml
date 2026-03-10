@@ -79,7 +79,7 @@ funfacts:
   funfacts_list:
     - name: 'Lego Build'
       image: 'images/icons/ph--lego-light.svg'
-      count: '56'
+      count: '58'
 
     - name: 'Hours since 2020'
       image: 'images/icons/game-icons--gamepad.svg'
