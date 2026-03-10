@@ -110,14 +110,32 @@ portfolio:
     #     Third is making a complete game.
 
     #     For now I am working on the game design especially the story and characters design.
+    - name: GameJam - BeerFinity
+      image: 'images/portfolio/screenshot_beerfinity.png'
+      description: |
+        Date : January 2026
 
+        It's was the second time I and my team participate in a game jam in IUT.
+        It was a game, I did with a team of 6, during **30 hours** with [Godot Engine 4](https://godotengine.org/).
+        In this project, we keep the same roles as before, and so I was again in charge of the game design.
+
+        This year the theme was "Fête des clicks" (Party of clicks, "Fête" sound's like "make" in french). We decieded to make a beer clicker, 
+        because beer is commonly associated with partying. The base game logic is simple, click the beer to score, clicking the beer full fill it, 
+        full filling it gives a score bonus.
+
+        To make it better we had a shop, where you can buy permanent bonus to score faster, there is also power-ups spawning.
+        Every time you fill 10 beer a fortune wheel spin and give you a temporary bonus.
+        
+        {{< youtube id=2BpJPwBnaZ8 class=video allowFullScreen=false >}}
+        
+        [Download from itch.io](https://maxx-bl.itch.io/beerfinity)
     
     - name: GameJam - Music of Honor
       image: 'images/portfolio/screenshot_musicofhonor_home.png'
       description: |
         Date : January 2025
 
-        I did a game jam in IUT
+        I did a game jam in IUT.
         It was a game, I did with a team of 6, during **30 hours** with [Godot Engine 4](https://godotengine.org/).
         In this project, I was in charge of the game design, especially in the game mechanics and formulas.
 
