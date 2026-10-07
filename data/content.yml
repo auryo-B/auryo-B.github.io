@@ -5,8 +5,7 @@ hero:
   # animated text loop.
   occupations:
     - Student at the IUT d'Orsay
-    - Student interested in everything
-    - Gamer
+    - Creative and curious mind
 
   # hero background image
   bg_image: 'images/background.png'
@@ -22,7 +21,7 @@ about:
   button:
     enable: true
     label: 'DOWNLOAD MY RESUME'
-    link: 'CV_RyowenBernard_2026-03.pdf'
+    link: 'CV_RyowenBernard_2026-10.pdf'
     icon: 'fa-download'
 
 ########################### Experience ##############################
@@ -43,17 +42,17 @@ experience:
     - name: Playtester
       company: Ubisoft
       duration: '2024-Current'
-      content: I was contacted by Ubisoft to test game or game features in development for unrealesed games or updates.
+      content: I was contacted by Ubisoft to test game or game features in development for unrealesed games or updates. (Under N.D.A.)
 
     - name: Student
       company: High-School Jehan de Beauce
       duration: '2021-2024'
       content: 1st year General formation, 2nd year STI2D, 3rd year STI2D SIN.
 
-    - name: Video Game Player
-      # company:
-      duration: '2013-Current'
-      content: Video games on PC, Tablet, PlayStation 2, Nintendo Wii, Occulus Quest 1
+    # - name: Video Game Player
+    #   company:
+    #   duration: '2013-Current'
+    #   content: Video games on PC, Tablet, PlayStation 2, Nintendo Wii, Occulus Quest 1
 
 ############################### Skill #################################
 skill:
@@ -62,13 +61,10 @@ skill:
   showpercent: false
   skill_list:
     - name: 'Teamwork'
-      percentage: '50%'
+      percentage: '75%'
 
     - name: 'English'
       percentage: '75%'
-
-    - name: 'Unreal Engine'
-      percentage: '5%'
 
     - name: 'Programmation'
       percentage: '15%'
@@ -79,11 +75,11 @@ funfacts:
   funfacts_list:
     - name: 'Lego Build'
       image: 'images/icons/ph--lego-light.svg'
-      count: '58'
+      count: '60'
 
     - name: 'Hours since 2020'
       image: 'images/icons/game-icons--gamepad.svg'
-      count: '14100'
+      count: '14300'
 
     - name: 'Min listening to music (2025)'
       image: 'images/icons/icon-park-outline--headset.svg'
@@ -95,6 +91,18 @@ portfolio:
   title: 'MY WORK'
   portfolio_list:
     
+    - name : Making a Luxmeter
+      iamge :
+      description: |
+        Date : June 2026
+
+        It was a project in a groupe of 3, we were given instruction and ressources to use for our research, 
+        then we proceeded to developped and craft a prototype on a perfboard. We also made a LabView program. 
+        We proceed to calibrate our luxmeter by comparing a series of measurments made with it and one with a commercial luxmeter.
+
+        I was in charge of exploiting the date from the measurments and assembling the prototype on the perfboard, 
+        and welded it on a pad-per-hole perfboard which we put in a 3D printed box made in SolidWorks (also made by me).
+
     # - name: Project Parabellum
     #   image: 'images/portfolio/lhlogotext.png'
     #   url: https://docs.google.com/document/d/1B47WdNsB7u8XSO52WBrWcrW_UyagzB_SSD8hy79OIa8/edit?usp=sharing
