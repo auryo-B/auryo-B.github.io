@@ -92,7 +92,7 @@ portfolio:
   portfolio_list:
     
     - name : Making a Luxmeter
-      iamge :
+      iamge : 'images/portfolio/illustrationS203-shubham-dhage-T9rKvI3N0NM-unsplash.png'
       description: |
         Date : June 2026
 
